@@ -7,7 +7,7 @@ You can use it for bigger projects, but remember: **This is NOT designed for lar
 
 
 
-#Features
+# Features
 
 - **Read and parse JSON files**
 - **Append dictionaries to JSON files**
