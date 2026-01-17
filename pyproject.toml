@@ -3,8 +3,8 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "simplejsonutils"
-version = "0.1.0"
+name = "simple-json-utils-by-speedy"
+version = "0.1.1"
 description = "Simple JSON utils for small projects, ideal for students."
 readme = "README.md"
 license = {text = "MIT"}
