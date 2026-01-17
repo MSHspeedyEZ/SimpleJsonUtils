@@ -20,8 +20,8 @@ You can use it for bigger projects, but remember: **This is NOT designed for lar
 - **Normalize JSON files from dict to list format**
 - **Create empty JSON files of type list or dict**
 
-##Author
-Marcin 'Speedy' Kotowski
+## Author
+- Marcin 'Speedy' Kotowski
 Contact:
-Discord: d2slasher
-Gmail: marcin.kotowski2k09@gmail.com
+- Discord: d2slasher
+- Gmail: marcin.kotowski2k09@gmail.com
