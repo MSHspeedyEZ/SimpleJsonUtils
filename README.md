@@ -1,4 +1,4 @@
-# SimpleJsonUtils
+# Simple Json Utils
 **Simple tools for operations on small, uncomplicated JSON files.**
 
 This library is created for students and their small projects that use JSON files.
