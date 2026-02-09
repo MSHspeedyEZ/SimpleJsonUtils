@@ -20,6 +20,8 @@ You can use it for bigger projects, but remember: **This is NOT designed for lar
 - **Normalize JSON files from dict to list format**
 - **Create empty JSON files of type list or dict**
 
+## Documentation
+[Documentation Link Here](https://mshspeedyez.github.io/SimpleJsonUtils/)
 ## Author
 - Marcin 'Speedy' Kotowski
 Contact:
